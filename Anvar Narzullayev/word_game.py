@@ -27,8 +27,6 @@ def sontop_PC(x):
                 flag = 0          
         else:
             print("Iltimos butun son kiriting")
-    
-    print("Dastur tugadi!")
     return taxmin_user
 def sontop_USER(x):
     """Bu funksiyada User 1 dan x gacha son o'ylaydi 
@@ -38,45 +36,64 @@ def sontop_USER(x):
     Masalan: sontop_USER(50) " bu yerda 
     1 dan 50 gacha sonlar o'ynaladi "
     """
-    print(f"\nEndi siz 1 dan {x} gacha sonlar ichidan birini o'ylang men topaman")
-    print("\nAgar men aytgan son siznikidan katta bo'lsa < - > ,\n"
-          "kichik bo'lsa < + > ni kiriting\n"
-          "Agar tog'ri topgan bo'lsam ,< ok > deb yozing")
+    print(f'\nEndi siz 1 dan {x} gacha sonlar ichidan birini o\'ylang men topaman')
+    print('\nAgar men aytgan son siznikidan katta bo\'lsa "-",\n'
+        'kichik bo\'lsa "+" ni kiriting\n'
+          'Agar tog\'ri topgan bo\'lsam ,"ok" deb yozing')
     taxmin_pc = 0
     max = x
     min = 1
     while True:
-        taxmin_pc+=1
         if min != max:
             son = r.randint(min,max)
-        elif min == max:
+        else:
             son = min
         javob = input(f"Siz {son} sonini o'yladingiz\n>>> ")
-        if javob == "-":
-            max = son-1
-        elif javob == "+":
-            min = son+1
-        elif javob == "ok":
-            print(f"Men topdim.\n")
-            break
+        if javob:
+            if javob == "-":
+                max = son-1
+                if min>max:
+                    print("Siz notog'ri ma'lumot kiritdingiz")
+                    max = son
+                else:
+                    taxmin_pc+=1 
+            elif javob == "+":
+                min = son+1
+                if min>max:
+                    print("Siz noto'g'ri ma'lumot kiritdingiz")
+                    min = son
+                else:
+                    taxmin_pc+=1
+            elif javob == "ok":
+                print(f"Men topdim.\n")
+                break
+        else:
+            print("Iltimos ma'lumot kiriting!")
     return taxmin_pc
-def hisobla(x=10):
+def play(x=10):
     """Bu funksiyaning maqsadi < sontop_PC() & sontop_USER() > 
        funksiyalari uchun play vazifasini bajaradi va
        natijalarni ko'rsatib beradi"""
     while True:
+        
         taxmin_user = sontop_PC(x)
         taxmin_pc = sontop_USER(x)
-        javob = input("\nSiz yana o'ynashni hohlaysizmi? (yes/no)\n        ")
+        
+        print(f"\nNatija:\n================\n"
+        
+        f" USER: {taxmin_user}\n PC: {taxmin_pc}\n================")
+        if taxmin_pc > taxmin_user:
+            print("Tabriklayman siz o'yinimizda go'lib chiqdingiz!")
+        elif taxmin_pc < taxmin_user:
+            print("Kompyuter o'yinda g'olib chiqdi!")
+        else:
+            print("\nDurrang\n")
 
-        if javob == "no":
-            break
-    print(f"\nUmumiy taxminlar soni:\n"
-    f"USER: {taxmin_user}\nPC:{taxmin_pc}")
-    if taxmin_pc > taxmin_user:
-        print("Tabriklayman siz O'yinimiz g'olibisiz!")
-    elif taxmin_pc < taxmin_user:
-        print("\nKaminai kamtarin o'yinda g'olib chiqdi")
-    else:
-        print("\nDuppa durrang bo'ldi")
-hisobla()  
+        javob = input('\nYana o\'ynashni hohlaysizmi \n       '
+                      'Ha uchun: 1\n       Yo\'q uchun: 0\n>>> ').lower()
+        if javob:
+            javob = int(javob)
+            if javob == 0:
+                break
+    print("\nDastur tugadi.Foydalanganingiz uchun tashakkur!")
+play()  
