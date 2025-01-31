@@ -70,7 +70,11 @@ for m in fruits:
         all_fruits.extend(m)
     else:       
         all_fruits.append(m)
-print(",".join(all_fruits))       
-        
+print(",".join(all_fruits))    
+
+# split() METODI BIZGA MATNNI AJRATIB ULARNI LIST QILIB QAYTARIB BERADI       
+text = "Hello  ?how? are? you?"
+words = text.split()
+print(len(words),words)
 
 
