@@ -1,0 +1,29 @@
+Sizning pip bilan bo‘lgan muammoingiz Kali Linuxning externally-managed environment siyosati bilan bog‘liq edi. Uni hal qilish uchun get-pip.py skriptidan foydalangan edingiz. Mana, bosqichma-bosqich hal qilish usuli:
+
+1. get-pip.py skriptini yuklab olish
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+2. Skriptni ishga tushirish
+
+python3 get-pip.py
+
+3. O‘rnatilgan pip versiyasini tekshirish
+
+pip --version
+
+Agar virtual muhit ichida ishlayotgan bo‘lsangiz (mynv faollashtirilgan bo‘lsa), u holda pip shu virtual muhit uchun o‘rnatiladi va ishlaydi. Agar hali ham muammo bo‘lsa yoki pip ishlamayotgan bo‘lsa, mynv ichida pipni qayta o‘rnatish uchun quyidagilarni bajaring:
+
+4. Virtual muhit ichida pipni yangilash
+
+python -m pip install --upgrade --force-reinstall pip
+
+Agar hozirgi virtual muhitga bog‘liq muammo bo‘lsa, uni qayta yaratib, yuqoridagi amallarni bajarish mumkin:
+
+5. Virtual muhitni qayta yaratish (ixtiyoriy, agar zarur bo‘lsa)
+
+python3 -m venv mynv
+source mynv/bin/activate
+python3 get-pip.py
+
+Shundan keyin pip muammosiz ishlashi kerak.
