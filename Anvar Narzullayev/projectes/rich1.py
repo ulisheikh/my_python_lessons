@@ -25,7 +25,7 @@ table.add_row("reverse", "Matn fon va matn rangini almashtiradi", "[reverse]O‘
 table.add_row("strikethrough", "Matn ustidan chiziq chizadi", "[strikethrough]Ustidan chizilgan matn[/strikethrough]")
 table.add_row("default", "Standart rangga qaytaradi", "[default]Standart matn[/default]")
 
-console.print(table)
+# console.print(table)
 
 
 
@@ -80,7 +80,7 @@ table.add_column("Yosh", style="magenta")
 table.add_column("Shahar", style="green")
 table.add_row("John Doe", "25", "New York")
 table.add_row("Jane Doe", "28", "Los Angeles")
-console.print(table)
+# console.print(table)
 
 
 
@@ -111,4 +111,4 @@ table.add_row("strikethrough", "Matn ustidan chiziq chizadi", "[strikethrough]Us
 table.add_row("reverse", "Matn fon va matn rangini almashtiradi", "[reverse]O‘zgargan fon va matn[/reverse]")
 table.add_row("default", "Standart rangga qaytaradi", "[default]Standart matn[/default]")
 
-console.print(table)
+# console.print(table)
