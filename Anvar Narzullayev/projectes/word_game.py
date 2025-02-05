@@ -3,6 +3,7 @@ from rich.console import Console
 from rich.table import Table
 from rich.text import Text
 
+
 def sontop_PC(x):
     """Bu funksiyada kompyuter 1 dan x gacha son o'ylaydi 
     user esa u sonni topishi kerak.Argument sifatida 
@@ -27,8 +28,7 @@ def sontop_PC(x):
     
     # Start
     while flag:
-        taxmin_user+=1
-        # print(son)
+        print(son)
         javob =input(">>>\n")
         
         # Javob raqamligini tekshirib olamiz
@@ -37,10 +37,13 @@ def sontop_PC(x):
             javob = int(javob)
             if javob < son:
                 print(f"Men o'ylagan son {javob} dan katta")
+                taxmin_user+=1
             elif javob > son:
                 print(f"Men o'ylagan son {javob} dan kichik")
+                taxmin_user+=1
             elif javob == son:
                 print("Siz topdingiz")
+                taxmin_user+=1
                 flag = 0 
 
         # Raqam bo'lmasa...
@@ -70,8 +73,9 @@ def sontop_USER(x):
     # Yuqori va quyi nuqtani belgilab olamiz
     max = x
     min = 1
+    input("\nSon o'ylagan bo'lsangiz Enterni bosing\n>>> ")
+
     while True:
-        input("Son o'ylagan bo'lsangiz Enterni bosing")
         # Yuqori va quyi nuqta teng emasligini aniqlaymiz
         if min != max:
             son = r.randint(min,max)
@@ -119,7 +123,14 @@ def play(x=10):
        natijalarni ko'rsatib beradi"""
     
     # While yordamida sikl yaratamiz
-    while True:
+    flag2 = True
+    part = 0
+    part_winner_user = 0
+    part_winner_pc = 0
+    draw = 0
+
+    while flag2:
+        part+=1
         # WINNER bizga g'olibni aniqlab beradi
         WINNER = ""
 
@@ -127,73 +138,103 @@ def play(x=10):
         taxmin_user = sontop_PC(x)
         taxmin_pc = sontop_USER(x)
         
-        # Natijani oddiy qilib chiqaramiz
-        print(f"\nNatija:\n================\n"
-        f" USER: {taxmin_user}\n PC: {taxmin_pc}\n================")
+        # # Natijani oddiy qilib chiqaramiz
+        # print(f"\nNatija:\n================\n"
+        # f" USER: {taxmin_user}\n PC: {taxmin_pc}\n================")
         
         # G'olibni aniqlaymiz taxmin sonlari yordamida
         if taxmin_pc > taxmin_user:
             WINNER = "USER"
-        
             print("Tabriklayman siz o'yinimizda go'lib chiqdingiz!")
         elif taxmin_pc < taxmin_user:
             WINNER = "PC"
 
             print("Kompyuter o'yinda g'olib chiqdi!")
         else:
-            print("\nDraw\n")
+            # print("\nDraw\n")
             WINNER = "Draw"
 
-        # winner bizga rich jadvalida yutgan va yutqazganni backgroundini rangini beradi
-        winner_pc = "on blue "
-        winner_user = "on blue "
+        # winner_pc va user bizga rich jadvalida yutgan va yutqazganni backgroundini rangini beradi
+        winner_pc = "bold blue "
+        winner_user = "bold blue "
         if WINNER == "PC":
-            winner_user = "on red"
+            winner_user = "bold red"
+
+            # part_winner bizga partiyadagi g'olibni aniqlab beradi
+            part_winner_pc+=1
+
         elif WINNER == "USER":
-            winner_pc = "on red"
+            winner_pc = "bold red"
+
+            # part_winner bizga partiyadagi g'olibni aniqlab beradi
+            part_winner_user+=1
+        elif part_winner_pc == part_winner_user:
+            draw+=1
 
         # Jadval tuzishni boshladik
         console = Console()
-        table = Table(title="WordGameResults",show_lines=0,style="bold blue")
+        table = Table(title="WordGame",show_lines=False,style="bold blue")
 
         # Jadvalga ikta ustun qo'shamiz
-        table.add_column("Players")
-        table.add_column(" Guesses and Results")
+        table.add_column(Text("  |_R_E_S_U_L_T_S_|  ",style='cyan'),style='white')
+        # table.add_column()
 
         # Jadvalga uchta qator qo'shamiz
-        table.add_row(
-                    Text("PC: ",justify='center'),
-                    Text(str(taxmin_pc),justify='center'),
-                    style=f'{winner_pc}')
-
-        table.add_row(
-                    Text("USER: ",justify='center'),
-                    Text(str(taxmin_user),justify='center'),
-                    style=f"{winner_user}")
-
-        table.add_row(
-                    Text("WINNER:",justify='center'),
-                    Text(str(WINNER),justify='center'),
-                    style="bold red on yellow")
+        table.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+        table.add_row(Text(f"| P a r t |",justify='center'),style='bold blue')
+        table.add_row(Text(f"[{str(part)}]",justify='center'),style='bold red')    
+        table.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+        table.add_row(Text(f" PC:  guesses: {str(taxmin_pc)}",justify='center',style='italic'),style=f'{winner_pc}')
+        table.add_row(Text(f"USER: guesses:{str(taxmin_user)}",style='italic',justify='center'),style=f"{winner_user}")
+        table.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+        table.add_row(Text(f"WINNER: {str(WINNER)}",justify='center'),style='bold red on blue')
         
         # Jadvalni print qilamiz
         console.print(table)
         
-        
         # Foydalanuvchidan o'yinni davom etish yoki to'xtatishini so'raymiz
-        javob = input('\nYana o\'ynashni hohlaysizmi \n       '
-                      'Ha uchun: 1\n       Yo\'q uchun: 0\n>>> ').lower()
-        if javob:
-            if javob.isdigit:
-                javob = int(javob)
-                if javob == 0:
-                    break
-            else:
-                print("Iltimos faqat butun son 0 va 1 ni kiriting")
-        else:
-            print("Iltimos 0 yoki 1 ni kiritib javob bering!")
+        # while True:
+        #     javob2 = input('\nYana o\'ynashni hohlaysizmi? \n       '
+        #                   'Ha uchun: 1\n       Yo\'q uchun: 0\n>>> ').lower()
+        #     if javob2.isdigit():
+        #         javob2 = int(javob2)
+        #         if javob2 == 1:
+        #             break
+        #         elif javob2 == 0:
+        #             flag2 = False
+        #             break
+        #     else:
+        #         print("\nIltimos faqat 1 yoki 0 ni kiriting")
+        while True:
+            javob2 = input('\nYana o\'ynashni hohlaysizmi? \n       '
+                  'Ha uchun: 1\n       Yo\'q uchun: 0\n>>> ').strip()
+            if javob2 in ["0", "1"]:
+                flag2 = javob2 == "1"
+                break
+        print("\nIltimos faqat 1 yoki 0 ni kiriting")
+
+
+        
+    table2 = Table(title="\nTotal score in the game",style="bold")
+
+    table2.add_column(Text("WordGameResults",justify='center',style='red reverse'),style='reverse')
+    table2.add_row(Text("Total part",justify='center'))
+    table2.add_row(Text(str(part),justify='center'))
+    table2.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+    table2.add_row(Text(f"USER won the game {str(part_winner_user)} times",justify='center'))
+    table2.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+    table2.add_row(Text(f"PC won the game {str(part_winner_pc)} times",justify='center'))
+    table2.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+    table2.add_row(Text(f"DRAW: {str(draw)}",justify='center'))
+    table2.add_row(Text("", justify='center'))  # Bo'sh qator uchun
+
+
+    console.print(table2)
+
     # Dasturni tugatamiz
     print("\nDastur tugadi.Foydalanganingiz uchun tashakkur!\n")
+
+
 
 
 
