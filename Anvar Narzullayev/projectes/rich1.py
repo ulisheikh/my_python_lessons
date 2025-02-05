@@ -25,7 +25,7 @@ table.add_row("reverse", "Matn fon va matn rangini almashtiradi", "[reverse]O‘
 table.add_row("strikethrough", "Matn ustidan chiziq chizadi", "[strikethrough]Ustidan chizilgan matn[/strikethrough]")
 table.add_row("default", "Standart rangga qaytaradi", "[default]Standart matn[/default]")
 
-# console.print(table)
+console.print(table)
 
 
 
