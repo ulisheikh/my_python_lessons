@@ -120,3 +120,15 @@ git merge BRANCH_NAME
 
 # 📄 GIT MERGE CONFLICTS - Merge conflictlarni ko'rish
 git diff
+
+# Cache fayllarni o‘chirish (misol uchun: __pycache__)
+git rm -r --cached __pycache__
+
+# Git reposida barcha cache fayllarni o‘chirish
+git rm -r --cached .cache/
+
+# Barcha o‘chirilgan fayllarni saqlash
+git commit -m "Removed cache files"
+
+# O‘zgarishlarni GitHub-ga yuborish
+git push origin main
