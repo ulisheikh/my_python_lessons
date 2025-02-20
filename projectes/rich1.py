@@ -19,14 +19,27 @@ table.add_row("yellow", "Matnni sariq rangga bo‘yaydi", "[yellow]Sariq matn[/y
 table.add_row("bold", "Matnni qalin qiladi", "[bold]Qalin matn[/bold]")
 table.add_row("dim", "Matnni xira qiladi", "[dim]Xira matn[/dim]")
 table.add_row("italic", "Matnni kursiv qiladi", "[italic]Kursiv matn[/italic]")
-table.add_row("underline", "Matn ostiga chiziq qo‘yadi", "[underline]Ostiga chizilgan matn[/underline]")
+table.add_row(
+    "underline",
+    "Matn ostiga chiziq qo‘yadi",
+    "[underline]Ostiga chizilgan matn[/underline]",
+)
 table.add_row("blink", "Matnni miltillovchi qiladi", "[blink]Miltillovchi matn[/blink]")
-table.add_row("reverse", "Matn fon va matn rangini almashtiradi", "[reverse]O‘zgargan fon va matn[/reverse]")
-table.add_row("strikethrough", "Matn ustidan chiziq chizadi", "[strikethrough]Ustidan chizilgan matn[/strikethrough]")
-table.add_row("default", "Standart rangga qaytaradi", "[default]Standart matn[/default]")
+table.add_row(
+    "reverse",
+    "Matn fon va matn rangini almashtiradi",
+    "[reverse]O‘zgargan fon va matn[/reverse]",
+)
+table.add_row(
+    "strikethrough",
+    "Matn ustidan chiziq chizadi",
+    "[strikethrough]Ustidan chizilgan matn[/strikethrough]",
+)
+table.add_row(
+    "default", "Standart rangga qaytaradi", "[default]Standart matn[/default]"
+)
 
 console.print(table)
-
 
 
 # 1. Rangli matn chiqarish
@@ -71,7 +84,9 @@ text3 = Text("Yirik Matn", style="bold magenta")
 console.print(text3)
 
 # 10. Rangli va atributlar birlashishi
-console.print("Bu matn bir nechta rang va atributlar bilan.", style="bold underline on yellow red")
+console.print(
+    "Bu matn bir nechta rang va atributlar bilan.", style="bold underline on yellow red"
+)
 
 # 11. Jadval yaratish
 table = Table(title="Matn jadvali")
@@ -81,10 +96,6 @@ table.add_column("Shahar", style="green")
 table.add_row("John Doe", "25", "New York")
 table.add_row("Jane Doe", "28", "Los Angeles")
 # console.print(table)
-
-
-
-
 
 
 from rich.console import Console
@@ -105,10 +116,24 @@ table.add_row("yellow", "Matnni sariq rangga bo‘yaydi", "[yellow]Sariq matn[/y
 table.add_row("bold", "Matnni qalin qiladi", "[bold]Qalin matn[/bold]")
 table.add_row("dim", "Matnni xira qiladi", "[dim]Xira matn[/dim]")
 table.add_row("italic", "Matnni kursiv qiladi", "[italic]Kursiv matn[/italic]")
-table.add_row("underline", "Matn ostiga chiziq qo‘yadi", "[underline]Ostiga chizilgan matn[/underline]")
+table.add_row(
+    "underline",
+    "Matn ostiga chiziq qo‘yadi",
+    "[underline]Ostiga chizilgan matn[/underline]",
+)
 table.add_row("blink", "Matnni miltillovchi qiladi", "[blink]Miltillovchi matn[/blink]")
-table.add_row("strikethrough", "Matn ustidan chiziq chizadi", "[strikethrough]Ustidan chizilgan matn[/strikethrough]")
-table.add_row("reverse", "Matn fon va matn rangini almashtiradi", "[reverse]O‘zgargan fon va matn[/reverse]")
-table.add_row("default", "Standart rangga qaytaradi", "[default]Standart matn[/default]")
+table.add_row(
+    "strikethrough",
+    "Matn ustidan chiziq chizadi",
+    "[strikethrough]Ustidan chizilgan matn[/strikethrough]",
+)
+table.add_row(
+    "reverse",
+    "Matn fon va matn rangini almashtiradi",
+    "[reverse]O‘zgargan fon va matn[/reverse]",
+)
+table.add_row(
+    "default", "Standart rangga qaytaradi", "[default]Standart matn[/default]"
+)
 
 # console.print(table)
