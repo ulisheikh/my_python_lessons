@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/ulee/Desktop/My lessons/mynv/bin/python3" "$0" "$@"
-' '''
+#!/home/ulee/Desktop/my_python_lessons/mynv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
