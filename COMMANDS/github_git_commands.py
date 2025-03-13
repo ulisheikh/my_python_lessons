@@ -125,7 +125,11 @@ git diff
 git rm -r --cached __pycache__
 
 # Git reposida barcha cache fayllarni o‘chirish
-git rm -r --cached .cache/
+git rm -r --cached .
+git add .
+git commit -m "Git cache tozalandi va qayta kuzatish boshlandi"
+git push origin main
+
 
 # Barcha o‘chirilgan fayllarni saqlash
 git commit -m "Removed cache files"
