@@ -7,6 +7,7 @@ from FUNCTIONS.sontop_USER import sontop_USER
 from FUNCTIONS.language_pack import lang_pack
 from FUNCTIONS.choose_lang import choose_lang
 
+
 console = Console()
 
 
@@ -75,7 +76,7 @@ def play(x=10):
 
         # Jadval tuzishni boshladik
         console = Console()
-        table = Table(title="WordGame", show_lines=False, style="bold blue")
+        table = Table(title="WordGame", show_lines=False, style="blue bold")
 
         # Jadvalga ikta ustun qo'shamiz
         table.add_column(Text(r"  \_\_R_E_S_U_L_T_S_/_/  ", style="cyan"), style="white")
@@ -116,19 +117,19 @@ def play(x=10):
         #     else:
         #         print("\nIltimos faqat 1 yoki 0 ni kiriting")
         while True:
-            javob2 = input(
-                f"\n{lang_pack [select_lang] ['T19']} \n       "
-                f"{lang_pack [select_lang] ['T20']}\n>>> "
-            ).strip()
+            console.print(                 f"\n{lang_pack [select_lang] ['T19']} \n       "
+            f"{lang_pack [select_lang] ['T20']}\n>>> ",style='rgb(38,17,232) bold')
+            javob2 = input().strip()
             if javob2 in ["0", "1"]:
                 flag2 = javob2 == "1"
                 break
-        print(f"\n{lang_pack [select_lang] ['T21']}")
+            else:
+                console.print(f"\n{lang_pack [select_lang] ['T21']}",style='red bold')
 
-    table2 = Table(title="\nTotal score in the game", style="bold")
+    table2 = Table(title="\nTotal score in the game", style="white bold")
 
     table2.add_column(
-        Text("WordGameResults", justify="center", style="red reverse"), style="reverse"
+        Text("WordGameResults", justify="center", style='rgb(38,17,232) bold'), style="reverse"
     )
     table2.add_row(Text("Total part", justify="center"))
     table2.add_row(Text(str(part), justify="center"))
@@ -147,4 +148,4 @@ def play(x=10):
     console.print(table2)
 
     # Dasturni{ tugatamiz
-    print(f"\n{lang_pack [select_lang] ['T22']}\n")
+    console.print(Text(f"\n{lang_pack [select_lang] ['T22']}\n",style='yellow bold'))

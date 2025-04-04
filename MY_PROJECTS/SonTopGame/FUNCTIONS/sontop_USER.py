@@ -52,7 +52,7 @@ def sontop_USER(lang,x):
                 max = son - 1
                 # Quyi chegarani manfiy songa aylanib ketishidan himoyalaymiz
                 if min > max:
-                    print(f"\n{lang_pack [lang] ['T11']}")
+                    console.print(f"\n{lang_pack [lang] ['T11']}",style = 'red bold')
                     # Birinchi taxmin qilgan sonidan ayirib ayirib \
                     # oxiri qayta qayta bir sonni chiqaradi
                     max = son

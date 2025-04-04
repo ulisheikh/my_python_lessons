@@ -19,8 +19,8 @@ lang_pack = {
         "T17": "Tabriklayman siz o'yinimizda g'olib chiqdingiz!",
         "T18": "Kompyuter o'yinda g'olib chiqdi!",
         "T19": "Yana o'ynashni hohlaysizmi?",
-        "T20": "Ha uchun: {1} Yo'q uchun: {0}  ",
-        "T21": "Iltimos faqat {1} yoki {0} ni kiriting",
+        "T20": "Ha uchun: 1 Yo'q uchun: 0  ",
+        "T21": "Iltimos faqat 1 yoki 0 ni kiriting",
         "T22": "Dastur tugadi. Foydalanganingiz uchun tashakkur!"
     },
     "en": {
@@ -48,12 +48,12 @@ lang_pack = {
         "T22": "The program has ended. Thank you for using it!"
     },
     "ko": {
-        "T1": "저는 {1} 부터 {x} 까지 숫자를 생각했습니다, 그것을 추측해보세요.",
+        "T1": "저는 1 부터 {x} 까지 숫자를 생각했습니다, 그것을 추측해보세요.",
         "T2": "제가 생각한 숫자는 {javob} 보다 큽니다.",
         "T3": "제가 생각한 숫자는 {javob} 보다 작습니다.",
         "T4": "맞췄습니다!",
         "T5": "정수를 입력해 주세요.",
-        "T6": "이제 {1} 부터 {x} 까지의 숫자 중 하나를 생각해 주세요, 제가 그 숫자를 맞히겠습니다.",
+        "T6": "이제 1 부터 {x} 까지의 숫자 중 하나를 생각해 주세요, 제가 그 숫자를 맞히겠습니다.",
         "T7": "제가 추측한 숫자가 더 크면 '-', 더 작으면 '+', 정확하게 맞히면 'ok'를 입력해 주세요.",
         "T8": "숫자를 생각했다면 엔터키를 눌러주세요.",
         "T9": "당신은 {son} 숫자를 생각하셨습니다.",
@@ -67,8 +67,8 @@ lang_pack = {
         "T17": "축하합니다! 게임에서 이겼습니다!",
         "T18": "컴퓨터가 게임에서 이겼습니다!",
         "T19": "다시 게임을 하시겠습니까?",
-        "T20": "예는 {1}, 아니오는 {0}을 입력하세요 ",
-        "T21": "{1} 또는 {0} 만 입력해 주세요.",
+        "T20": "예는 1, 아니오는 0 을 입력하세요 ",
+        "T21": "1 또는 0 만 입력해 주세요.",
         "T22": "프로그램이 종료되었습니다. 사용해 주셔서 감사합니다!"
     },
     "ru": {
