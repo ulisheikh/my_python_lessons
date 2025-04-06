@@ -26,6 +26,10 @@ sudo apt install fonts-nanum fonts-noto-cjk
 sudo apt install ibus-hangul
 sudo apt install fcitx-hangul
 
-# Bluetooth
-sudo apt update && sudo apt install bluez blueman pulseaudio-module-bluetooth
-sudo systemctl start bluetooth
+# Bluetooth remove
+sudo systemctl stop bluetooth && sudo apt purge --autoremove -y bluez blueman pulseaudio-module-bluetooth && rm -rf ~/.config/blueman
+
+# Bluetooth install
+sudo apt update && sudo apt install -y bluez blueman pulseaudio-module-bluetooth && sudo systemctl start bluetooth && sudo systemctl enable bluetooth && blueman-applet &
+
+
