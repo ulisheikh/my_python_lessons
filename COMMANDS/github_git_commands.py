@@ -16,7 +16,7 @@ gh repo edit --repo YOUR_USERNAME/ESKI_REPO --name YANGI_REPO
 gh repo clone REPO_NOMI
 
 # 🔧 YANGI REPOSITORY YARATISH - Yangi repository yaratish
-gh repo create REPO_NOMI
+gh repo create REPO_NOMI --public or --private
 
 # 🗑️ REPOSITORY O'CHIRISH - GitHub repository'sini o'chirish
 gh repo delete REPO_NOMI
