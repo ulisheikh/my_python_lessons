@@ -1,0 +1,9 @@
+2025/04/17-00:28:02.321 38bb Reusing MANIFEST /home/ulee/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2025/04/17-00:28:02.321 38bb Recovering log #10
+2025/04/17-00:28:02.321 38bb Reusing old log /home/ulee/.config/google-chrome/Default/shared_proto_db/000010.log 
+2025/04/17-03:32:36.148 38ba Compacting 1@1 + 1@2 files
+2025/04/17-03:32:36.151 38ba Generated table #15@1: 213 keys, 16634 bytes
+2025/04/17-03:32:36.151 38ba Compacted 1@1 + 1@2 files => 16634 bytes
+2025/04/17-03:32:36.153 38ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/17-03:32:36.153 38ba Delete type=2 #13
+2025/04/17-03:32:36.153 38ba Delete type=2 #5

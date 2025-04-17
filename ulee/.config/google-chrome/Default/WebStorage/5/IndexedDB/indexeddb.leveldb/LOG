@@ -1,0 +1,15 @@
+2025/04/17-02:28:42.476 38bb Reusing MANIFEST /home/ulee/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/17-02:28:42.476 38bb Recovering log #4
+2025/04/17-02:28:42.478 38bb Reusing old log /home/ulee/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/000004.log 
+2025/04/17-02:38:45.405 38bb Level-0 table #8: started
+2025/04/17-02:38:45.409 38bb Level-0 table #8: 151558 bytes OK
+2025/04/17-02:38:45.412 38bb Delete type=0 #4
+2025/04/17-02:38:45.413 38bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/04/17-02:38:45.413 38bb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 612 : 1
+2025/04/17-02:38:45.413 38bb Compacting 1@1 + 1@2 files
+2025/04/17-02:38:45.416 38bb Generated table #9@1: 62 keys, 5347 bytes
+2025/04/17-02:38:45.416 38bb Compacted 1@1 + 1@2 files => 5347 bytes
+2025/04/17-02:38:45.419 38bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/17-02:38:45.419 38bb Delete type=2 #5
+2025/04/17-02:38:45.419 38bb Delete type=2 #8
+2025/04/17-02:38:45.420 38bb Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 612 : 1 .. (end); will stop at (end)

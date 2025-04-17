@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Cyber Campus
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=chmgofbbifaepdfmbddbolkaekpljehb
+Icon=chrome-chmgofbbifaepdfmbddbolkaekpljehb-Default
+StartupWMClass=crx_chmgofbbifaepdfmbddbolkaekpljehb
+X-XFCE-Source=file:///home/ulee/Desktop/chrome-chmgofbbifaepdfmbddbolkaekpljehb-Default.desktop

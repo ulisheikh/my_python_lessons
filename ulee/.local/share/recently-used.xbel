@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ulee/Downloads/1.jpg" added="2025-03-12T01:47:01.064399Z" modified="2025-04-11T23:07:21.135728Z" visited="2025-03-12T01:47:01.064400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-12T01:56:30.349148Z" count="6"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.0 %u&apos;" modified="2025-04-11T23:07:21.135727Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons" added="2025-03-13T01:11:15.206554Z" modified="2025-03-20T02:38:27.932586Z" visited="2025-03-13T01:11:15.206555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-20T02:38:27.932584Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN" added="2025-03-13T01:59:19.601022Z" modified="2025-03-20T02:37:00.996607Z" visited="2025-03-13T01:59:19.601024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-20T02:37:00.996605Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/Karra_jadvali.py" added="2025-03-16T11:25:34.700040Z" modified="2025-03-24T00:09:21.129609Z" visited="2025-03-16T11:25:34.700041Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-24T00:09:21.129604Z" count="38"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_01%EC%A3%BC%EC%B0%A8(1)_1%EC%9E%A5%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B9%84%EA%B8%B4%EC%A6%88_%EB%B0%95%ED%98%B8%EA%B7%A0.pdf" added="2025-03-17T02:53:47.859397Z" modified="2025-03-17T02:53:47.859401Z" visited="2025-03-17T02:53:47.859398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2025-03-17T02:53:47.859399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_02%EC%A3%BC%EC%B0%A8_3%EC%9E%A5%20%EC%97%B0%EC%82%B0%EC%9E%90_%EB%B0%95%ED%98%B8%EA%B7%A0.pdf" added="2025-03-17T02:54:12.440862Z" modified="2025-03-17T02:54:12.440867Z" visited="2025-03-17T02:54:12.440863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2025-03-17T02:54:12.440864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS" added="2025-03-20T03:10:17.412440Z" modified="2025-03-20T03:10:17.427472Z" visited="2025-03-20T03:10:17.412441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-20T03:10:17.427469Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/SonTopGame" added="2025-03-20T03:11:53.281493Z" modified="2025-04-16T16:00:42.216841Z" visited="2025-03-20T03:11:53.281494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-16T16:00:42.216839Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/karra.py" added="2025-03-20T04:10:15.294838Z" modified="2025-03-20T04:12:28.972555Z" visited="2025-03-20T04:10:15.294838Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 3:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-20T04:12:28.972551Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/lang_pack.json" added="2025-03-20T04:12:24.213419Z" modified="2025-04-06T11:44:48.104150Z" visited="2025-03-20T04:12:24.213420Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-06T11:44:48.104145Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/COMMANDS/for_systems" added="2025-03-20T04:45:29.390431Z" modified="2025-03-20T04:46:47.426739Z" visited="2025-03-20T04:45:29.390431Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 18:21;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-20T04:46:47.426734Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/Anvar%20Narzullayev/Boshangich_darsliklar" added="2025-03-24T02:28:03.853053Z" modified="2025-03-24T02:28:03.869200Z" visited="2025-03-24T02:28:03.853054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-24T02:28:03.869197Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9C%B5%ED%95%A9%ED%95%99%EA%B3%BC_%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_04%EC%A3%BC%EC%B0%A8_5%EC%9E%A5%20%EC%A1%B0%EA%B1%B4%EB%AC%B8%20(2).pdf" added="2025-03-24T03:27:15.167671Z" modified="2025-03-24T03:30:21.607343Z" visited="2025-03-24T03:27:15.167679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2025-03-24T03:27:15.167680Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-03-24T03:30:21.607336Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/PYTHON/topshiriq1.py" added="2025-03-24T03:49:51.895435Z" modified="2025-03-24T03:49:51.910716Z" visited="2025-03-24T03:49:51.895436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-24T03:49:51.910715Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/topshiriq1.py" added="2025-03-24T03:50:04.310222Z" modified="2025-03-24T03:50:08.243549Z" visited="2025-03-24T03:50:04.310223Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-24T03:50:08.243545Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Pictures/Screenshot_2025-03-30_14_56_46.png" added="2025-03-30T05:57:08.017178Z" modified="2025-03-30T05:57:08.034294Z" visited="2025-03-30T05:57:08.017179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-30T05:57:08.034291Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Pictures/Screenshot_2025-03-30_15_05_19.png" added="2025-03-30T06:08:57.322147Z" modified="2025-04-05T17:05:32.371208Z" visited="2025-03-30T06:08:57.322148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-03-30T06:08:57.334996Z" count="2"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-04-05T17:05:32.371206Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/example.py" added="2025-03-30T08:11:14.276944Z" modified="2025-04-07T02:08:17.543033Z" visited="2025-03-30T08:11:14.276945Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-07T02:08:17.543030Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/SonTopGame/lang_pack.py" added="2025-03-30T13:46:02.081480Z" modified="2025-03-30T13:47:12.355053Z" visited="2025-03-30T13:46:02.081480Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-30T13:47:12.355050Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/SonTopGame/FUNCTIONS/choose_lang.py" added="2025-03-30T13:46:29.613402Z" modified="2025-03-30T13:46:38.135706Z" visited="2025-03-30T13:46:29.613402Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-30T13:46:38.135701Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/SonTopGame/functions.py" added="2025-03-30T13:46:56.709570Z" modified="2025-03-30T13:47:00.279540Z" visited="2025-03-30T13:46:56.709570Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-03-30T13:47:00.279537Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/functions.py" added="2025-04-03T02:33:32.965820Z" modified="2025-04-06T11:44:48.111463Z" visited="2025-04-03T02:33:32.965821Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-06T11:44:48.111460Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/MY_PROJECTS/rich1.py" added="2025-04-03T04:29:53.035278Z" modified="2025-04-03T04:30:06.758179Z" visited="2025-04-03T04:29:53.035278Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-03T04:30:06.758176Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/%EB%88%84%EB%A6%AC-%EC%84%B8%EC%A2%85%ED%95%99%EB%8B%B9%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%A0%88%EB%B2%A8%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf" added="2025-04-05T17:03:31.921997Z" modified="2025-04-11T22:51:44.482164Z" visited="2025-04-05T17:03:31.921998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-05T17:09:47.572876Z" count="4"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2025-04-11T22:51:44.482162Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/lang_json_make.py" added="2025-04-06T05:39:59.117269Z" modified="2025-04-06T05:40:03.115035Z" visited="2025-04-06T05:39:59.117271Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-06T05:40:03.115032Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%206%EC%9D%BC%20%EC%98%A4%ED%9B%84%2006_13_51.png" added="2025-04-06T09:14:03.774559Z" modified="2025-04-06T09:37:28.738132Z" visited="2025-04-06T09:14:03.774559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-04-06T09:37:28.738130Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T09:37:13.840703Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%206%EC%9D%BC%20%EC%98%A4%ED%9B%84%2006_31_03.png" added="2025-04-06T09:31:37.602003Z" modified="2025-04-06T10:17:35.235470Z" visited="2025-04-06T09:31:37.602005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T10:17:35.235468Z" count="6"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-04-06T09:37:32.970077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/ChatGPT%20Image%202025%EB%85%84%204%EC%9B%94%206%EC%9D%BC%20%EC%98%A4%ED%9B%84%2006_38_02.png" added="2025-04-06T09:38:27.247009Z" modified="2025-04-06T10:17:35.235478Z" visited="2025-04-06T09:38:27.247010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T10:17:35.235477Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/2.jpg" added="2025-04-06T10:36:34.145063Z" modified="2025-04-06T10:36:48.100348Z" visited="2025-04-06T10:36:34.145065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T10:36:48.100347Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/3x4.jpg" added="2025-04-06T10:57:31.187849Z" modified="2025-04-12T00:36:27.277494Z" visited="2025-04-06T10:57:31.187850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T10:58:20.143940Z" count="6"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-04-12T00:36:27.277492Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/noname.pdf" added="2025-04-06T11:05:04.141109Z" modified="2025-04-06T11:05:41.208547Z" visited="2025-04-06T11:05:04.141110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2025-04-06T11:05:04.141111Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T11:05:41.208545Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/sticker.webp" added="2025-04-06T11:07:45.054998Z" modified="2025-04-06T11:20:53.114065Z" visited="2025-04-06T11:07:45.054999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T11:20:53.114063Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/noname.png" added="2025-04-06T11:11:27.952863Z" modified="2025-04-11T23:07:06.010964Z" visited="2025-04-06T11:11:27.952864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T11:11:27.967740Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.0 %u&apos;" modified="2025-04-11T23:07:06.010959Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/%E3%84%B9%E3%84%B9.jpg" added="2025-04-06T11:21:20.859578Z" modified="2025-04-06T11:22:08.749798Z" visited="2025-04-06T11:21:20.859579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-06T11:22:08.749797Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/C%20LESSONS/les1.c" added="2025-04-07T02:08:25.135695Z" modified="2025-04-07T02:08:25.135704Z" visited="2025-04-07T02:08:25.135696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-07T02:08:25.135699Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/C%20LESSONS/les2.c" added="2025-04-07T02:08:36.275149Z" modified="2025-04-07T02:08:36.275153Z" visited="2025-04-07T02:08:36.275150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-07T02:08:36.275151Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/C%20LESSONS/les3.c" added="2025-04-07T02:08:43.435407Z" modified="2025-04-07T02:08:45.534935Z" visited="2025-04-07T02:08:43.435407Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-07T02:08:45.534931Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///Karra_jadvali.py" added="2025-04-07T02:09:02.421895Z" modified="2025-04-07T02:09:26.663251Z" visited="2025-04-07T02:09:02.421896Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 29:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-07T02:09:26.663247Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/91st%20TOPIK%20II%20Reading.pdf" added="2025-04-10T19:49:42.027285Z" modified="2025-04-10T20:00:17.391403Z" visited="2025-04-10T19:49:42.027286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-10T20:00:17.391401Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/91st%20TOPIK%20II%20Listening%20&amp;%20Writing.pdf" added="2025-04-10T19:49:42.027302Z" modified="2025-04-10T20:00:17.391410Z" visited="2025-04-10T19:49:42.027302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-10T20:00:17.391409Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/91st%20TOPIK%20II%20Listening%20Transcript.pdf" added="2025-04-10T19:49:42.027309Z" modified="2025-04-10T20:00:17.391416Z" visited="2025-04-10T19:49:42.027309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-10T20:00:17.391415Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Downloads/91st%20TOPIK%20II%20Answersheets.pdf" added="2025-04-10T19:49:42.027323Z" modified="2025-04-10T20:00:17.391422Z" visited="2025-04-10T19:49:42.027324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-10T20:00:17.391420Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_08_18_R.mp4" added="2025-04-12T00:12:52.631802Z" modified="2025-04-12T00:16:13.082714Z" visited="2025-04-12T00:12:52.631804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-12T00:12:52.651437Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:16:12.392793Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:16:13.082712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_17_51_22_R.mp4" added="2025-04-12T00:14:39.355837Z" modified="2025-04-12T00:15:27.126207Z" visited="2025-04-12T00:14:39.355838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:14:39.355841Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:15:27.126205Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_17_51_22_F.mp4" added="2025-04-12T00:15:03.815330Z" modified="2025-04-12T00:15:19.704090Z" visited="2025-04-12T00:15:03.815331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:15:03.815333Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:15:19.704086Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_17_52_22_R.mp4" added="2025-04-12T00:15:43.915768Z" modified="2025-04-12T00:15:46.846671Z" visited="2025-04-12T00:15:43.915769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:15:46.846670Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_17_53_22_F.mp4" added="2025-04-12T00:15:51.397798Z" modified="2025-04-12T00:15:57.962107Z" visited="2025-04-12T00:15:51.397799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:15:57.962105Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_17_50_22_F.mp4" added="2025-04-12T00:16:02.170228Z" modified="2025-04-12T00:16:04.343076Z" visited="2025-04-12T00:16:02.170229Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:16:02.170232Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:16:04.343074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_06_18_R.mp4" added="2025-04-12T00:16:19.737095Z" modified="2025-04-12T00:16:21.099916Z" visited="2025-04-12T00:16:19.737096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:16:21.099913Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_06_18_F.mp4" added="2025-04-12T00:16:26.729940Z" modified="2025-04-12T00:16:32.045881Z" visited="2025-04-12T00:16:26.729941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:16:32.045879Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_00_31_R.mp4" added="2025-04-12T00:17:17.589738Z" modified="2025-04-12T00:17:20.158363Z" visited="2025-04-12T00:17:17.589740Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:17:17.589744Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:17:20.158360Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_54_55_R.mp4" added="2025-04-12T00:17:25.797375Z" modified="2025-04-12T00:17:28.877712Z" visited="2025-04-12T00:17:25.797377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:17:28.877710Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_47_59_R.mp4" added="2025-04-12T00:17:33.767600Z" modified="2025-04-12T00:17:37.558194Z" visited="2025-04-12T00:17:33.767601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:17:33.767605Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:17:37.558193Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_37_59_R.mp4" added="2025-04-12T00:17:42.230721Z" modified="2025-04-12T00:17:44.640769Z" visited="2025-04-12T00:17:42.230721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:17:44.640768Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_10_14_R.mp4" added="2025-04-12T00:17:50.557336Z" modified="2025-04-12T00:17:53.005483Z" visited="2025-04-12T00:17:50.557338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:17:50.557340Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:17:53.005480Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_11_41_F.mp4" added="2025-04-12T00:18:02.290509Z" modified="2025-04-12T00:18:04.225058Z" visited="2025-04-12T00:18:02.290511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:18:02.290514Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:18:04.225056Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_13_41_R.mp4" added="2025-04-12T00:18:09.079695Z" modified="2025-04-12T00:18:11.445428Z" visited="2025-04-12T00:18:09.079696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:18:09.079697Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:18:11.445426Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_13_41_F.mp4" added="2025-04-12T00:18:16.534803Z" modified="2025-04-12T00:18:21.629511Z" visited="2025-04-12T00:18:16.534805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:18:16.534808Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:18:21.629509Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_57_22_R.mp4" added="2025-04-12T00:18:55.545122Z" modified="2025-04-12T00:18:58.322300Z" visited="2025-04-12T00:18:55.545123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:18:55.545126Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:18:58.322299Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_04_18_R.mp4" added="2025-04-12T00:19:01.479695Z" modified="2025-04-12T00:19:03.760755Z" visited="2025-04-12T00:19:01.479696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:19:01.479699Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:19:03.760754Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_05_18_F.mp4" added="2025-04-12T00:19:08.510120Z" modified="2025-04-12T00:27:56.400766Z" visited="2025-04-12T00:19:08.510121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:27:35.753765Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:27:56.400764Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_02_18_R.mp4" added="2025-04-12T00:19:20.798081Z" modified="2025-04-12T00:19:27.814892Z" visited="2025-04-12T00:19:20.798081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:19:27.814889Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_02_18_F.mp4" added="2025-04-12T00:19:31.173253Z" modified="2025-04-12T00:19:38.228018Z" visited="2025-04-12T00:19:31.173254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:19:31.173257Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:19:38.228015Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_01_31_F.mp4" added="2025-04-12T00:20:08.166432Z" modified="2025-04-12T00:20:13.246935Z" visited="2025-04-12T00:20:08.166433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:20:08.166435Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:20:13.246933Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_00_31_F.mp4" added="2025-04-12T00:20:25.355475Z" modified="2025-04-12T00:20:34.139333Z" visited="2025-04-12T00:20:25.355476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:20:34.139330Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_59_22_F.mp4" added="2025-04-12T00:20:59.241205Z" modified="2025-04-12T00:21:08.324115Z" visited="2025-04-12T00:20:59.241206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:21:08.324112Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_58_22_F.mp4" added="2025-04-12T00:21:46.482215Z" modified="2025-04-12T00:21:48.705977Z" visited="2025-04-12T00:21:46.482216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:21:46.482218Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:21:48.705975Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_57_22_F.mp4" added="2025-04-12T00:21:56.784516Z" modified="2025-04-12T00:21:58.530068Z" visited="2025-04-12T00:21:56.784518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:21:56.784520Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:21:58.530066Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_56_22_F.mp4" added="2025-04-12T00:22:49.034530Z" modified="2025-04-12T00:22:55.558199Z" visited="2025-04-12T00:22:49.034531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:22:49.034533Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:22:55.558195Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_55_55_F.mp4" added="2025-04-12T00:22:59.737283Z" modified="2025-04-12T00:23:07.008940Z" visited="2025-04-12T00:22:59.737285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:22:59.737287Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:07.008937Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_54_55_F.mp4" added="2025-04-12T00:23:13.036094Z" modified="2025-04-12T00:23:20.957552Z" visited="2025-04-12T00:23:13.036095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:23:13.036097Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:20.957549Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_53_55_F.mp4" added="2025-04-12T00:23:26.993195Z" modified="2025-04-12T00:23:29.208772Z" visited="2025-04-12T00:23:26.993196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:23:26.993197Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:29.208770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_52_55_F.mp4" added="2025-04-12T00:23:34.539269Z" modified="2025-04-12T00:23:36.644712Z" visited="2025-04-12T00:23:34.539270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:36.644710Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_28_54_R.mp4" added="2025-04-12T00:23:41.258849Z" modified="2025-04-12T00:23:43.857228Z" visited="2025-04-12T00:23:41.258849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:23:41.258850Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:43.857226Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_28_54_F.mp4" added="2025-04-12T00:23:47.343955Z" modified="2025-04-12T00:23:49.656186Z" visited="2025-04-12T00:23:47.343956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:23:47.343958Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:23:49.656184Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_05_17_42_F.mp4" added="2025-04-12T00:23:55.306750Z" modified="2025-04-12T00:24:02.300975Z" visited="2025-04-12T00:23:55.306751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:24:02.300972Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_11_18_46_43_F.mp4" added="2025-04-12T00:24:06.770303Z" modified="2025-04-12T00:25:09.688810Z" visited="2025-04-12T00:24:06.770304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:24:06.770306Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:25:09.688810Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_05_18_R.mp4" added="2025-04-12T00:27:29.323232Z" modified="2025-04-12T00:27:31.818954Z" visited="2025-04-12T00:27:29.323233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:27:29.323236Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:27:31.818952Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_04_18_F.mp4" added="2025-04-12T00:28:00.346465Z" modified="2025-04-12T00:28:05.729327Z" visited="2025-04-12T00:28:00.346466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:28:00.346470Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:28:05.729326Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving/REC_2025_04_12_06_03_18_F.mp4" added="2025-04-12T00:29:22.965908Z" modified="2025-04-12T00:29:24.180042Z" visited="2025-04-12T00:29:22.965909Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:29:24.180040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_08_51_F.mp4" added="2025-04-12T00:29:38.051161Z" modified="2025-04-12T00:29:40.117107Z" visited="2025-04-12T00:29:38.051162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:29:38.051164Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:29:40.117106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_12_04_F.mp4" added="2025-04-12T00:29:51.809501Z" modified="2025-04-12T00:35:01.710080Z" visited="2025-04-12T00:29:51.809502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:34:53.891309Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:35:01.710078Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_08_07_09_46_F.mp4" added="2025-04-12T00:30:04.007317Z" modified="2025-04-12T00:30:08.565001Z" visited="2025-04-12T00:30:04.007318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:30:04.007319Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:30:08.564999Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_39_54_F.mp4" added="2025-04-12T00:30:30.704112Z" modified="2025-04-12T00:30:32.617722Z" visited="2025-04-12T00:30:30.704113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:30:30.704115Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:30:32.617721Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_24_32_R.mp4" added="2025-04-12T00:30:38.738175Z" modified="2025-04-12T00:30:40.766160Z" visited="2025-04-12T00:30:38.738176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:30:38.738178Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:30:40.766158Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_24_32_F.mp4" added="2025-04-12T00:30:46.100383Z" modified="2025-04-12T00:30:50.862803Z" visited="2025-04-12T00:30:46.100384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:30:46.100386Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:30:50.862801Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_02_26_F.mp4" added="2025-04-12T00:31:15.513669Z" modified="2025-04-12T00:32:57.108029Z" visited="2025-04-12T00:31:15.513670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:32:57.108028Z" count="13"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:32:16.086252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_00_30_F.mp4" added="2025-04-12T00:31:46.375272Z" modified="2025-04-12T00:32:38.766782Z" visited="2025-04-12T00:31:46.375274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:32:30.374600Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:32:38.766780Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_08_34_F.mp4" added="2025-04-12T00:31:55.825137Z" modified="2025-04-12T00:33:11.559673Z" visited="2025-04-12T00:31:55.825139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:33:01.942294Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:33:11.559671Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_02_26_R.mp4" added="2025-04-12T00:32:07.451935Z" modified="2025-04-12T00:32:12.000330Z" visited="2025-04-12T00:32:07.451937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:32:07.451939Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:32:12.000329Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_00_30_R.mp4" added="2025-04-12T00:32:44.110182Z" modified="2025-04-12T00:32:46.719114Z" visited="2025-04-12T00:32:44.110183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:32:44.110186Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:32:46.719111Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_11_10_F.mp4" added="2025-04-12T00:33:20.532761Z" modified="2025-04-12T00:33:26.995282Z" visited="2025-04-12T00:33:20.532762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:33:26.995281Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_11_18_17_46_F.mp4" added="2025-04-12T00:33:31.177919Z" modified="2025-04-12T00:33:36.531303Z" visited="2025-04-12T00:33:31.177920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:33:36.531301Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_12_05_36_29_R.mp4" added="2025-04-12T00:33:42.034057Z" modified="2025-04-12T00:33:45.426302Z" visited="2025-04-12T00:33:42.034057Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:33:42.034058Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:33:45.426300Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/MAN_2025_04_12_06_00_21_R.mp4" added="2025-04-12T00:33:51.576052Z" modified="2025-04-12T00:33:54.207272Z" visited="2025-04-12T00:33:51.576052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:33:51.576053Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:33:54.207270Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/MAN_2025_04_12_06_00_21_F.mp4" added="2025-04-12T00:33:58.901005Z" modified="2025-04-12T00:34:02.496090Z" visited="2025-04-12T00:33:58.901006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:33:58.901008Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:34:02.496059Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_05_06_20_04_F.mp4" added="2025-04-12T00:34:09.956735Z" modified="2025-04-12T00:34:12.848862Z" visited="2025-04-12T00:34:09.956736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:34:09.956738Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:34:12.848861Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_05_06_20_04_R.mp4" added="2025-04-12T00:34:19.162828Z" modified="2025-04-12T00:34:24.009218Z" visited="2025-04-12T00:34:19.162829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:34:19.162831Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:34:24.009217Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_17_39_13_F.mp4" added="2025-04-12T00:34:28.494985Z" modified="2025-04-12T00:34:30.978635Z" visited="2025-04-12T00:34:28.494986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:34:30.978633Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_11_53_R.mp4" added="2025-04-12T00:34:48.841620Z" modified="2025-04-12T00:34:50.039439Z" visited="2025-04-12T00:34:48.841621Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:34:50.039438Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_11_53_F.mp4" added="2025-04-12T00:35:26.723690Z" modified="2025-04-12T00:35:32.505378Z" visited="2025-04-12T00:35:26.723691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:35:26.723694Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:35:32.505376Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_11_32_F.mp4" added="2025-04-12T00:35:37.604908Z" modified="2025-04-12T00:35:40.533394Z" visited="2025-04-12T00:35:37.604909Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:35:37.604912Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:35:40.533392Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_11_08_F.mp4" added="2025-04-12T00:35:47.869412Z" modified="2025-04-12T00:35:51.176501Z" visited="2025-04-12T00:35:47.869413Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:35:47.869415Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:35:51.176500Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ulee/VShotPrime/Driving_Event/EVT_2025_04_07_18_10_53_F.mp4" added="2025-04-12T00:35:57.285886Z" modified="2025-04-12T00:36:01.321616Z" visited="2025-04-12T00:35:57.285887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:35:57.285889Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2025-04-12T00:36:01.321614Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/SHINHAN/README.md" added="2025-04-12T00:40:43.842190Z" modified="2025-04-12T00:40:43.842198Z" visited="2025-04-12T00:40:43.842191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-12T00:40:43.842194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/%EB%8B%A8%EC%B2%B4%EC%A0%91%EC%88%98%20%EC%8B%A0%EC%B2%AD%EC%84%9C%20%EC%83%98%ED%94%8C%20(4).hwp" added="2025-04-13T08:11:35.807171Z" modified="2025-04-13T08:12:37.805901Z" visited="2025-04-13T08:11:35.807172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-hwp"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-13T08:12:37.805900Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/COMMANDS" added="2025-04-16T15:55:38.403779Z" modified="2025-04-16T17:45:53.104464Z" visited="2025-04-16T15:55:38.403780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-16T17:45:53.104462Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/COMMANDS/openpyxl.py" added="2025-04-16T16:14:08.064323Z" modified="2025-04-16T18:42:53.320872Z" visited="2025-04-16T16:14:08.064324Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-04-16T16:14:08.083835Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-16T18:37:50.834969Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-16T18:42:53.320870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/COMMANDS/openpyxl_commands.py" added="2025-04-16T18:37:59.873678Z" modified="2025-04-16T18:38:06.339952Z" visited="2025-04-16T18:37:59.873679Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-04-16T18:37:59.873680Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-16T18:38:06.339950Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ulee/Desktop/my_python_lessons/exampl.py" added="2025-04-16T18:38:41.898710Z" modified="2025-04-16T18:38:46.359685Z" visited="2025-04-16T18:38:41.898711Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-04-16T18:38:46.359682Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
