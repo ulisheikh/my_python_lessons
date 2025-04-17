@@ -2,16 +2,17 @@ import random as r
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
-from FUNCTIONS.sontop_PC import sontop_PC
-from FUNCTIONS.sontop_USER import sontop_USER
-from FUNCTIONS.language_pack import lang_pack
-from FUNCTIONS.choose_lang import choose_lang
+from my_functions.sontop_PC import sontop_PC
+from my_functions.sontop_USER import sontop_USER
+from helper.language_pack import lang_pack
+from my_functions.choose_lang import choose_lang
+from openpyxl import Workbook
 
 
 console = Console()
 
 
-def play(x=10):
+def play(x=50):
     """Bu funksiyaning maqsadi < sontop_PC() & sontop_USER() >
     funksiyalari uchun play vazifasini bajaradi va
     natijalarni ko'rsatib beradi"""
@@ -24,6 +25,7 @@ def play(x=10):
         name = input().lower()
         if name:
             console3.print(f"\n                    {lang_pack[select_lang]["T16"]} {name.upper()} ",style='White bold')
+            name = name.capitalize()
             break
 
     # While yordamida sikl yaratamiz
@@ -103,6 +105,7 @@ def play(x=10):
         # Jadvalni print qilamiz
         console.print(table)
 
+
         # Foydalanuvchidan o'yinni davom etish yoki to'xtatishini so'raymiz
         # while True:
         #     javob2 = input('\nYana o\'ynashni hohlaysizmi? \n       '
@@ -147,5 +150,35 @@ def play(x=10):
 
     console.print(table2)
 
+    # Natijalarni exel file orqali yozib boramiz
+    from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Game Results"
+
+    # Jadval sarlavhalari
+    ws.merge_cells('A1:B1')
+    ws['A1'] = "WordGameResults"
+
+    # cell = ws['A1']
+    # cell.font = Font(bold=True,size=14,color='FFFF00')
+
+    ws['A1'].alignment = Alignment(horizontal='center')
+    ws.append(['Info','Value'])
+
+    # O'yin natijalari
+    ws.append(["Total part",part])
+    ws.append([name,part_winner_user])
+    ws.append(["PC",part_winner_pc])
+    ws.append(["Draw",draw])
+
+    # Jadvalni saqlaymiz
+    wb.save("game_results.xlsx")
+
     # Dasturni{ tugatamiz
     console.print(Text(f"\n{lang_pack [select_lang] ['T22']}\n",style='yellow bold'))
+    return part,name,part_winner_pc,part_winner_user,draw
+
+
+
+

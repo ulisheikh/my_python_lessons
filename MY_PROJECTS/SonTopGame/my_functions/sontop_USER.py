@@ -2,7 +2,7 @@ import random as r
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
-from FUNCTIONS.language_pack import lang_pack
+from helper.language_pack import lang_pack
 
 
 console = Console()
@@ -48,29 +48,33 @@ def sontop_USER(lang,x):
 
         # Agar javob bo'lsa kod ishlaydi bo'lmasa else qismi ishlaydi
         if javob:
-            if javob == "-":
-                max = son - 1
-                # Quyi chegarani manfiy songa aylanib ketishidan himoyalaymiz
-                if min > max:
-                    console.print(f"\n{lang_pack [lang] ['T11']}",style = 'red bold')
-                    # Birinchi taxmin qilgan sonidan ayirib ayirib \
-                    # oxiri qayta qayta bir sonni chiqaradi
-                    max = son
+            if not javob.isdigit() and javob in ['-','+','ok']:
+                if javob == "-":
+                    max = son - 1
+                    # Quyi chegarani manfiy songa aylanib ketishidan himoyalaymiz
+                    if min > max:
+                        console.print(f"\n{lang_pack [lang] ['T11']}",style = 'red bold')
+                        # Birinchi taxmin qilgan sonidan ayirib ayirib \
+                        # oxiri qayta qayta bir sonni chiqaradi
+                        max = son
 
-                # Taxminni aniqligini ta'minlaymiz
-                else:
+                    # Taxminni aniqligini ta'minlaymiz
+                    else:
+                        taxmin_pc += 1
+                elif javob == "+":
+                    min = son + 1
+                    if min > max:
+                        console.print(f"\n{lang_pack [lang] ['T12']}",style='red bold')
+                        min = son
+                    else:
+                        taxmin_pc += 1
+                elif javob == "ok":
+                    console.print(f"\n{lang_pack [lang] ['T13']}\n",style='rgb(0,255,0)')
                     taxmin_pc += 1
-            elif javob == "+":
-                min = son + 1
-                if min > max:
-                    console.print(f"\n{lang_pack [lang] ['T12']}",style='red bold')
-                    min = son
-                else:
-                    taxmin_pc += 1
-            elif javob == "ok":
-                console.print(f"\n{lang_pack [lang] ['T13']}\n",style='rgb(0,255,0)')
-                taxmin_pc += 1
-                break
+                    break
+            else:
+                console.print(f"\n{lang_pack [lang] ['T11']}",style='red bold ')
+                
         else:
             console.print(f"\n{lang_pack [lang] ['T14']}",style='red bold ')
 

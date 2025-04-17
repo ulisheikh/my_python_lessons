@@ -1,2 +1,3 @@
-from FUNCTIONS.play import play
+from my_functions.play import play
 play()
+

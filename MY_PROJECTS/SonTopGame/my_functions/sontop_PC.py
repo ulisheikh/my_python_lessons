@@ -2,7 +2,7 @@ import random as r
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
-from FUNCTIONS.language_pack import lang_pack
+from helper.language_pack import lang_pack
 # from FUNCTIONS.choose_lang import choose_lang
 
 
