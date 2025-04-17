@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=ChatGPT
-Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=cadlkienfkclaiaibeoongdcgmdikeeg
-Icon=chrome-cadlkienfkclaiaibeoongdcgmdikeeg-Default
-StartupWMClass=crx_cadlkienfkclaiaibeoongdcgmdikeeg
-X-XFCE-Source=file:///home/ulee/Desktop/chrome-cadlkienfkclaiaibeoongdcgmdikeeg-Default.desktop

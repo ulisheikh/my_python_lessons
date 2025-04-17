@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=신한대학교 종합정보시스템
-Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=bppkhgeeoaopeeonmbnhplmpfhhbdagh
-Icon=chrome-bppkhgeeoaopeeonmbnhplmpfhhbdagh-Default
-StartupWMClass=crx_bppkhgeeoaopeeonmbnhplmpfhhbdagh
-X-XFCE-Source=file:///home/ulee/Desktop/chrome-bppkhgeeoaopeeonmbnhplmpfhhbdagh-Default.desktop

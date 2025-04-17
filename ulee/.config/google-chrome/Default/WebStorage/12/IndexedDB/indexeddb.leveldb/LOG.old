@@ -1,6 +1,0 @@
-2025/03/20-09:58:02.818 75c0 Creating DB /home/ulee/.config/google-chrome/Default/WebStorage/12/IndexedDB/indexeddb.leveldb since it was missing.
-2025/03/20-09:58:02.823 75c0 Reusing MANIFEST /home/ulee/.config/google-chrome/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/03/20-11:01:55.928 75c1 Level-0 table #5: started
-2025/03/20-11:01:55.931 75c1 Level-0 table #5: 9344 bytes OK
-2025/03/20-11:01:55.934 75c1 Delete type=0 #3
-2025/03/20-11:01:55.935 75c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
